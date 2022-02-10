@@ -8,6 +8,7 @@ core:
 inventory:
 * Use uts.name for Proxmox lxc containers
 * Support customized AnyDesk client as remote management inventory on unix/linux
+* database: Oracle database inventory update
 
 collect:
 * Make collect task more verbose when debug is enabled
